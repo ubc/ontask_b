@@ -120,7 +120,7 @@ supervisor==4.2.0
 tablib==1.1.0
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.0.4
+tornado==6.3.3
 traitlets==4.3.3
 tzlocal==2.1
 unicodecsv==0.14.1
